@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "appId": "f44d1b181",
+      "appId": "f44d1b81",
       "root": "./",
       "dependencyInstallCommand": "npm install",
       "webBuildCommand": "echo 'Skipping web build...'"
