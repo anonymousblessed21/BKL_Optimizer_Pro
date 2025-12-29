@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "appId": "com.bkl.optimizer",
+      "dependencyInstallCommand": "npm install",
+      "webBuildCommand": "echo 'Web build skipped - using static files'"
+    }
+  ]
+}
